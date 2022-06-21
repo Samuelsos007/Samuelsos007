@@ -1,4 +1,4 @@
-### Olá! Eu sou o Samuel Oliveira 👋
+### Olá! Eu sou Samuel Oliveira 👋
 
 
 - 🔭 Hoje sou estudante Front-end 
